@@ -6,5 +6,6 @@ Solutions for leetcode/lintcode problems
 | :--: | :--: |:--: |
 | Remove Duplication from sorted list | Easy  |https://leetcode.com/problems/remove-duplicates-from-sorted-list/| 
 | Maximum subarray | Easy  |https://leetcode.com/problems/maximum-subarray/|
+| Merge Two sorted Lists | Easy  |https://leetcode.com/problems/merge-two-sorted-lists/|
 
 
