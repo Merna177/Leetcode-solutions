@@ -9,4 +9,7 @@ Solutions for leetcode/lintcode problems
 | Merge Two sorted Lists | Easy  |https://leetcode.com/problems/merge-two-sorted-lists/|
 | Remove Linked List Elements | Easy  |https://leetcode.com/problems/remove-linked-list-elements/|
 | Binary Tree inorder Traverse  | Medium  |https://leetcode.com/problems/binary-tree-inorder-traversal/|
+| subtree of another tree  | Easy  |https://leetcode.com/problems/subtree-of-another-tree/
+|
+
 
