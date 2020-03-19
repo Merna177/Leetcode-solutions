@@ -10,5 +10,6 @@ Solutions for leetcode/lintcode problems
 | Remove Linked List Elements | Easy  |https://leetcode.com/problems/remove-linked-list-elements/|
 | Binary Tree inorder Traverse  | Medium  |https://leetcode.com/problems/binary-tree-inorder-traversal/|
 | subtree of another tree  | Easy  |https://leetcode.com/problems/subtree-of-another-tree/|
+| Search Suggestions System  | Medium  |https://leetcode.com/problems/search-suggestions-system/|
 
 
