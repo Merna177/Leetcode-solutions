@@ -21,3 +21,4 @@ Solutions for leetcode/lintcode problems
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
 |  Update Salary  | Easy  |https://leetcode.com/problems/swap-salary/|
+|  Reformat Department table  | Easy  |https://leetcode.com/problems/reformat-department-table/|
