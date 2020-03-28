@@ -16,5 +16,8 @@ Solutions for leetcode/lintcode problems
 |   Design a Stack With Increment Operation| Medium  |https://leetcode.com/problems/design-a-stack-with-increment-operation/|
 |Minimum Number of Steps to Make Two Strings Anagram| Medium  |https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/|
 |  Word Break  | Medium  |https://leetcode.com/problems/word-break/|
-SQL:
+
+### Sql
+| Name | Difficulty | Link | 
+| :--: | :--: |:--: |
 |  Update Salary  | Easy  |https://leetcode.com/problems/swap-salary/|
