@@ -17,6 +17,7 @@ Solutions for leetcode/lintcode problems
 |Minimum Number of Steps to Make Two Strings Anagram| Medium  |https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/|
 |  Word Break  | Medium  |https://leetcode.com/problems/word-break/|
 |  Partition Labels  | Medium  |https://leetcode.com/problems/partition-labels/|
+|  Sort an Array  | Medium  |https://leetcode.com/problems/sort-an-array/|
 
 
 ### Sql
