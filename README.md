@@ -23,3 +23,4 @@ Solutions for leetcode/lintcode problems
 |  Update Salary  | Easy  |https://leetcode.com/problems/swap-salary/|
 |  Reformat Department table  | Easy  |https://leetcode.com/problems/reformat-department-table/|
 |  Not boring movies  | Easy  |https://leetcode.com/problems/not-boring-movies/|
+|  Duplicate Emails | Easy  |https://leetcode.com/problems/duplicate-emails/|
