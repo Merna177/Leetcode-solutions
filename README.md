@@ -27,5 +27,6 @@ Solutions for leetcode/lintcode problems
 |  Reformat Department table  | Easy  |https://leetcode.com/problems/reformat-department-table/|
 |  Not boring movies  | Easy  |https://leetcode.com/problems/not-boring-movies/|
 |  Duplicate Emails | Easy  |https://leetcode.com/problems/duplicate-emails/|
-|   |Combine Two Tables Easy  |https://leetcode.com/problems/combine-two-tables/|
+|Combine Two Tables | Easy  |https://leetcode.com/problems/combine-two-tables/|
+|Employees Earning More Than Their Managers | Easy  |https://leetcode.com/problems/employees-earning-more-than-their-managers/|
 
