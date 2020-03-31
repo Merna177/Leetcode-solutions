@@ -30,4 +30,5 @@ Solutions for leetcode/lintcode problems
 |Combine Two Tables | Easy  |https://leetcode.com/problems/combine-two-tables/|
 |Employees Earning More Than Their Managers | Easy  |https://leetcode.com/problems/employees-earning-more-than-their-managers/|
 |Customers Who Never Order | Easy  |https://leetcode.com/problems/customers-who-never-order/|
+|Delete Duplicate Emails | Easy  |https://leetcode.com/problems/delete-duplicate-emails/|
 
