@@ -29,4 +29,5 @@ Solutions for leetcode/lintcode problems
 |  Duplicate Emails | Easy  |https://leetcode.com/problems/duplicate-emails/|
 |Combine Two Tables | Easy  |https://leetcode.com/problems/combine-two-tables/|
 |Employees Earning More Than Their Managers | Easy  |https://leetcode.com/problems/employees-earning-more-than-their-managers/|
+|Customers Who Never Order | Easy  |https://leetcode.com/problems/customers-who-never-order/|
 
