@@ -33,3 +33,4 @@ Solutions for leetcode/lintcode problems
 |Customers Who Never Order | Easy  |https://leetcode.com/problems/customers-who-never-order/|
 |Delete Duplicate Emails | Easy  |https://leetcode.com/problems/delete-duplicate-emails/|
 |Rising Temperature | Easy  |https://leetcode.com/problems/rising-temperature/|
+|Classes more than 5 students | Easy  |https://leetcode.com/problems/classes-more-than-5-students/|
