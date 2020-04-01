@@ -18,6 +18,7 @@ Solutions for leetcode/lintcode problems
 |  Word Break  | Medium  |https://leetcode.com/problems/word-break/|
 |  Partition Labels  | Medium  |https://leetcode.com/problems/partition-labels/|
 |  Sort an Array  | Medium  |https://leetcode.com/problems/sort-an-array/|
+|  Single Number  | Easy  |https://leetcode.com/problems/single-number/|
 
 
 ### Sql
