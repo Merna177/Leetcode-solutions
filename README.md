@@ -19,6 +19,7 @@ Solutions for leetcode/lintcode problems
 |  Partition Labels  | Medium  |https://leetcode.com/problems/partition-labels/|
 |  Sort an Array  | Medium  |https://leetcode.com/problems/sort-an-array/|
 |  Single Number  | Easy  |https://leetcode.com/problems/single-number/|
+|  Happy Number  | Easy  |https://leetcode.com/problems/happy-number/|
 
 
 ### Sql
