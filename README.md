@@ -20,8 +20,7 @@ Solutions for leetcode/lintcode problems
 |  Sort an Array  | Medium  |https://leetcode.com/problems/sort-an-array/|
 |  Single Number  | Easy  |https://leetcode.com/problems/single-number/|
 |  Happy Number  | Easy  |https://leetcode.com/problems/happy-number/|
-
-
+|  Move Zeroes  | Easy  |https://leetcode.com/problems/move-zeroes/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
