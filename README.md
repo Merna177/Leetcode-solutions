@@ -22,7 +22,7 @@ Solutions for leetcode/lintcode problems
 |  Happy Number  | Easy  |https://leetcode.com/problems/happy-number/|
 |  Move Zeroes  | Easy  |https://leetcode.com/problems/move-zeroes/|
 | best time to buy & sell stock II  | Easy  |https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/|
-| group Anagrams  | Easy  |https://leetcode.com/problems/group-anagrams/|
+| group Anagrams  | Medium  |https://leetcode.com/problems/group-anagrams/|
 
 ### Sql
 | Name | Difficulty | Link | 
@@ -38,4 +38,4 @@ Solutions for leetcode/lintcode problems
 |Rising Temperature | Easy  |https://leetcode.com/problems/rising-temperature/|
 |Classes more than 5 students | Easy  |https://leetcode.com/problems/classes-more-than-5-students/|
 |Second Highest Salary | Easy  | https://leetcode.com/problems/second-highest-salary/|
-
+|Exchange Seats | Medium  | https://leetcode.com/problems/exchange-seats/|
