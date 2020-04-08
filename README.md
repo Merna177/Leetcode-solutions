@@ -23,7 +23,7 @@ Solutions for leetcode/lintcode problems
 |  Move Zeroes  | Easy  |https://leetcode.com/problems/move-zeroes/|
 | best time to buy & sell stock II  | Easy  |https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/|
 | group Anagrams  | Medium  |https://leetcode.com/problems/group-anagrams/|
-
+| Middle of the linkedlist  | Easy  |https://leetcode.com/problems/middle-of-the-linked-list/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
