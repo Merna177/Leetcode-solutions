@@ -24,6 +24,8 @@ Solutions for leetcode/lintcode problems
 | best time to buy & sell stock II  | Easy  |https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/|
 | group Anagrams  | Medium  |https://leetcode.com/problems/group-anagrams/|
 | Middle of the linkedlist  | Easy  |https://leetcode.com/problems/middle-of-the-linked-list/|
+|Backspace String Compare  | Easy  |https://leetcode.com/problems/backspace-string-compare/|
+
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
