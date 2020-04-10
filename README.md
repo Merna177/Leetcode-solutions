@@ -25,7 +25,7 @@ Solutions for leetcode/lintcode problems
 | group Anagrams  | Medium  |https://leetcode.com/problems/group-anagrams/|
 | Middle of the linkedlist  | Easy  |https://leetcode.com/problems/middle-of-the-linked-list/|
 |Backspace String Compare  | Easy  |https://leetcode.com/problems/backspace-string-compare/|
-
+|Min stack | Easy  |https://leetcode.com/problems/min-stack/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
