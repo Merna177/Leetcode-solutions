@@ -26,6 +26,8 @@ Solutions for leetcode/lintcode problems
 | Middle of the linkedlist  | Easy  |https://leetcode.com/problems/middle-of-the-linked-list/|
 |Backspace String Compare  | Easy  |https://leetcode.com/problems/backspace-string-compare/|
 |Min stack | Easy  |https://leetcode.com/problems/min-stack/|
+|Diameter of Binary Tree | Easy  |https://leetcode.com/problems/diameter-of-binary-tree/|
+
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
