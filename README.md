@@ -27,7 +27,7 @@ Solutions for leetcode/lintcode problems
 |Backspace String Compare  | Easy  |https://leetcode.com/problems/backspace-string-compare/|
 |Min stack | Easy  |https://leetcode.com/problems/min-stack/|
 |Diameter of Binary Tree | Easy  |https://leetcode.com/problems/diameter-of-binary-tree/|
-
+|Last Stone Weight | Easy  |https://leetcode.com/problems/last-stone-weight/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
