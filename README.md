@@ -28,6 +28,7 @@ Solutions for leetcode/lintcode problems
 |Min stack | Easy  |https://leetcode.com/problems/min-stack/|
 |Diameter of Binary Tree | Easy  |https://leetcode.com/problems/diameter-of-binary-tree/|
 |Last Stone Weight | Easy  |https://leetcode.com/problems/last-stone-weight/|
+|Contiguous Array | Medium  |https://leetcode.com/problems/contiguous-array/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
