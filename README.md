@@ -29,6 +29,7 @@ Solutions for leetcode/lintcode problems
 |Diameter of Binary Tree | Easy  |https://leetcode.com/problems/diameter-of-binary-tree/|
 |Last Stone Weight | Easy  |https://leetcode.com/problems/last-stone-weight/|
 |Contiguous Array | Medium  |https://leetcode.com/problems/contiguous-array/|
+|Word Break II | Hard  |https://leetcode.com/problems/word-break-ii/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
