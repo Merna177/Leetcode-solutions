@@ -31,6 +31,7 @@ Solutions for leetcode/lintcode problems
 |Contiguous Array | Medium  |https://leetcode.com/problems/contiguous-array/|
 |Word Break II | Hard  |https://leetcode.com/problems/word-break-ii/|
 |Product of Array Except Self | Medium  |https://leetcode.com/problems/product-of-array-except-self/|
+|Number of islands | Medium  |https://leetcode.com/problems/number-of-islands/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
