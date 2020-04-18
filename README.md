@@ -32,6 +32,7 @@ Solutions for leetcode/lintcode problems
 |Word Break II | Hard  |https://leetcode.com/problems/word-break-ii/|
 |Product of Array Except Self | Medium  |https://leetcode.com/problems/product-of-array-except-self/|
 |Number of islands | Medium  |https://leetcode.com/problems/number-of-islands/|
+|Minimum Path Sum| Medium  |https://leetcode.com/problems/minimum-path-sum/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
