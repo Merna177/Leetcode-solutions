@@ -33,6 +33,7 @@ Solutions for leetcode/lintcode problems
 |Product of Array Except Self | Medium  |https://leetcode.com/problems/product-of-array-except-self/|
 |Number of islands | Medium  |https://leetcode.com/problems/number-of-islands/|
 |Minimum Path Sum| Medium  |https://leetcode.com/problems/minimum-path-sum/|
+|Search in Rotated Sorted Array| Medium  |https://leetcode.com/problems/search-in-rotated-sorted-array/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
