@@ -34,6 +34,7 @@ Solutions for leetcode/lintcode problems
 |Number of islands | Medium  |https://leetcode.com/problems/number-of-islands/|
 |Minimum Path Sum| Medium  |https://leetcode.com/problems/minimum-path-sum/|
 |Search in Rotated Sorted Array| Medium  |https://leetcode.com/problems/search-in-rotated-sorted-array/|
+|Binary Search tree from preorder Traversal| Medium  |https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
