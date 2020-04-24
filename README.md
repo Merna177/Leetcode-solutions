@@ -37,6 +37,7 @@ Solutions for leetcode/lintcode problems
 |Binary Search tree from preorder Traversal| Medium  |https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/|
 |Subarray sum equals k| Medium  |https://leetcode.com/problems/subarray-sum-equals-k/|
 |BitWise And of Numbers Range| Medium  |https://leetcode.com/problems/bitwise-and-of-numbers-range/|
+|LRU Cache| Medium  |https://leetcode.com/problems/lru-cache/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
