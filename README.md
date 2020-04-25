@@ -38,6 +38,7 @@ Solutions for leetcode/lintcode problems
 |Subarray sum equals k| Medium  |https://leetcode.com/problems/subarray-sum-equals-k/|
 |BitWise And of Numbers Range| Medium  |https://leetcode.com/problems/bitwise-and-of-numbers-range/|
 |LRU Cache| Medium  |https://leetcode.com/problems/lru-cache/|
+|Jump Game| Medium  |https://leetcode.com/problems/jump-game/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
