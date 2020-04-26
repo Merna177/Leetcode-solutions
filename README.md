@@ -39,6 +39,7 @@ Solutions for leetcode/lintcode problems
 |BitWise And of Numbers Range| Medium  |https://leetcode.com/problems/bitwise-and-of-numbers-range/|
 |LRU Cache| Medium  |https://leetcode.com/problems/lru-cache/|
 |Jump Game| Medium  |https://leetcode.com/problems/jump-game/|
+|Longest Common Subsequence | Medium |https://leetcode.com/problems/longest-common-subsequence/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
