@@ -40,6 +40,8 @@ Solutions for leetcode/lintcode problems
 |LRU Cache| Medium  |https://leetcode.com/problems/lru-cache/|
 |Jump Game| Medium  |https://leetcode.com/problems/jump-game/|
 |Longest Common Subsequence | Medium |https://leetcode.com/problems/longest-common-subsequence/|
+|Maximal Square | Medium |https://leetcode.com/problems/maximal-square/|
+
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
