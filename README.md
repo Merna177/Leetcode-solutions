@@ -42,6 +42,7 @@ Solutions for leetcode/lintcode problems
 |Longest Common Subsequence | Medium |https://leetcode.com/problems/longest-common-subsequence/|
 |Maximal Square | Medium |https://leetcode.com/problems/maximal-square/|
 |Binary Tree Maximum Path Sum | Hard |https://leetcode.com/problems/binary-tree-maximum-path-sum/|
+|First Bad Version | Easy |https://leetcode.com/problems/first-bad-version/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
