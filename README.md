@@ -43,6 +43,7 @@ Solutions for leetcode/lintcode problems
 |Maximal Square | Medium |https://leetcode.com/problems/maximal-square/|
 |Binary Tree Maximum Path Sum | Hard |https://leetcode.com/problems/binary-tree-maximum-path-sum/|
 |First Bad Version | Easy |https://leetcode.com/problems/first-bad-version/|
+|jewels And Stones| Easy |https://leetcode.com/problems/jewels-and-stones/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
