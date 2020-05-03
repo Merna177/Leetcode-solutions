@@ -44,6 +44,7 @@ Solutions for leetcode/lintcode problems
 |Binary Tree Maximum Path Sum | Hard |https://leetcode.com/problems/binary-tree-maximum-path-sum/|
 |First Bad Version | Easy |https://leetcode.com/problems/first-bad-version/|
 |jewels And Stones| Easy |https://leetcode.com/problems/jewels-and-stones/|
+|Ransom Note| Easy |https://leetcode.com/problems/ransom-note/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
