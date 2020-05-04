@@ -45,6 +45,8 @@ Solutions for leetcode/lintcode problems
 |First Bad Version | Easy |https://leetcode.com/problems/first-bad-version/|
 |jewels And Stones| Easy |https://leetcode.com/problems/jewels-and-stones/|
 |Ransom Note| Easy |https://leetcode.com/problems/ransom-note/|
+|Number Complement| Easy |https://leetcode.com/problems/number-complement/
+|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
