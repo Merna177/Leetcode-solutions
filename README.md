@@ -47,6 +47,7 @@ Solutions for leetcode/lintcode problems
 |Ransom Note| Easy |https://leetcode.com/problems/ransom-note/|
 |Number Complement| Easy |https://leetcode.com/problems/number-complement/|
 |First Unique Character in a String| Easy |https://leetcode.com/problems/first-unique-character-in-a-string/|
+|Majority Element| Easy |https://leetcode.com/problems/majority-element/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
