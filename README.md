@@ -48,6 +48,8 @@ Solutions for leetcode/lintcode problems
 |Number Complement| Easy |https://leetcode.com/problems/number-complement/|
 |First Unique Character in a String| Easy |https://leetcode.com/problems/first-unique-character-in-a-string/|
 |Majority Element| Easy |https://leetcode.com/problems/majority-element/|
+|Cousins in binary tree| Easy |https://leetcode.com/problems/cousins-in-binary-tree/|
+
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
