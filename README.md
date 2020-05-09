@@ -50,7 +50,7 @@ Solutions for leetcode/lintcode problems
 |Majority Element| Easy |https://leetcode.com/problems/majority-element/|
 |Cousins in binary tree| Easy |https://leetcode.com/problems/cousins-in-binary-tree/|
 |Check If it a Straight line| Easy |https://leetcode.com/problems/check-if-it-is-a-straight-line/|
-https://leetcode.com/problems/check-if-it-is-a-straight-line/
+|Valid Perfect Square| Easy |https://leetcode.com/problems/valid-perfect-square/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
