@@ -51,6 +51,7 @@ Solutions for leetcode/lintcode problems
 |Cousins in binary tree| Easy |https://leetcode.com/problems/cousins-in-binary-tree/|
 |Check If it a Straight line| Easy |https://leetcode.com/problems/check-if-it-is-a-straight-line/|
 |Valid Perfect Square| Easy |https://leetcode.com/problems/valid-perfect-square/|
+|Find the town judge| Easy |https://leetcode.com/problems/find-the-town-judge/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
