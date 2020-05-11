@@ -52,6 +52,7 @@ Solutions for leetcode/lintcode problems
 |Check If it a Straight line| Easy |https://leetcode.com/problems/check-if-it-is-a-straight-line/|
 |Valid Perfect Square| Easy |https://leetcode.com/problems/valid-perfect-square/|
 |Find the town judge| Easy |https://leetcode.com/problems/find-the-town-judge/|
+|Flood fill| Easy |https://leetcode.com/problems/flood-fill/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
