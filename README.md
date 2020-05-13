@@ -54,6 +54,8 @@ Solutions for leetcode/lintcode problems
 |Find the town judge| Easy |https://leetcode.com/problems/find-the-town-judge/|
 |Flood fill| Easy |https://leetcode.com/problems/flood-fill/|
 |Single Element in a sorted Array| Medium |https://leetcode.com/problems/single-element-in-a-sorted-array/|
+|Remove K Digits| Medium |https://leetcode.com/problems/remove-k-digits/|
+ttps://leetcode.com/problems/remove-k-digits/
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
