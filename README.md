@@ -55,7 +55,7 @@ Solutions for leetcode/lintcode problems
 |Flood fill| Easy |https://leetcode.com/problems/flood-fill/|
 |Single Element in a sorted Array| Medium |https://leetcode.com/problems/single-element-in-a-sorted-array/|
 |Remove K Digits| Medium |https://leetcode.com/problems/remove-k-digits/|
-ttps://leetcode.com/problems/remove-k-digits/
+|Implement Trie| Medium |https://leetcode.com/problems/implement-trie-prefix-tree/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
