@@ -58,6 +58,8 @@ Solutions for leetcode/lintcode problems
 |Implement Trie| Medium |https://leetcode.com/problems/implement-trie-prefix-tree/|
 |Maximum Sum Circular Subarray| Medium |https://leetcode.com/problems/maximum-sum-circular-subarray/|
 |Odd Even LinkedList| Medium |https://leetcode.com/problems/odd-even-linked-list/|
+|Find All Anagrams in a string| Medium |https://leetcode.com/problems/find-all-anagrams-in-a-string/|
+
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
