@@ -59,7 +59,7 @@ Solutions for leetcode/lintcode problems
 |Maximum Sum Circular Subarray| Medium |https://leetcode.com/problems/maximum-sum-circular-subarray/|
 |Odd Even LinkedList| Medium |https://leetcode.com/problems/odd-even-linked-list/|
 |Find All Anagrams in a string| Medium |https://leetcode.com/problems/find-all-anagrams-in-a-string/|
-
+|Permutation in string| Medium |https://leetcode.com/problems/permutation-in-string/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
