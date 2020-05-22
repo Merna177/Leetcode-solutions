@@ -63,6 +63,7 @@ Solutions for leetcode/lintcode problems
 |Online Stock Span| Medium |https://leetcode.com/problems/online-stock-span/|
 |Kth Smallest Element In a BST| Medium |https://leetcode.com/problems/kth-smallest-element-in-a-bst/|
 |Count Square SubMatrices with all ones| Medium |https://leetcode.com/problems/count-square-submatrices-with-all-ones/|
+|Sort Characters By Frequency| Medium |https://leetcode.com/problems/sort-characters-by-frequency/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
