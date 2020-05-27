@@ -66,6 +66,7 @@ Solutions for leetcode/lintcode problems
 |Sort Characters By Frequency| Medium |https://leetcode.com/problems/sort-characters-by-frequency/|
 |Interval List Intersection| Medium |https://leetcode.com/problems/interval-list-intersections/|
 |Uncrossed Lines| Medium |https://leetcode.com/problems/uncrossed-lines/|
+|Possible Bipartition| Medium |https://leetcode.com/problems/possible-bipartition/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
