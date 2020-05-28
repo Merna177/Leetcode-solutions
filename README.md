@@ -67,6 +67,7 @@ Solutions for leetcode/lintcode problems
 |Interval List Intersection| Medium |https://leetcode.com/problems/interval-list-intersections/|
 |Uncrossed Lines| Medium |https://leetcode.com/problems/uncrossed-lines/|
 |Possible Bipartition| Medium |https://leetcode.com/problems/possible-bipartition/|
+|Counting Bits| Medium |https://leetcode.com/problems/counting-bits/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
