@@ -68,6 +68,7 @@ Solutions for leetcode/lintcode problems
 |Uncrossed Lines| Medium |https://leetcode.com/problems/uncrossed-lines/|
 |Possible Bipartition| Medium |https://leetcode.com/problems/possible-bipartition/|
 |Counting Bits| Medium |https://leetcode.com/problems/counting-bits/|
+|Course Schedule| Medium |https://leetcode.com/problems/course-schedule/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
