@@ -69,6 +69,7 @@ Solutions for leetcode/lintcode problems
 |Possible Bipartition| Medium |https://leetcode.com/problems/possible-bipartition/|
 |Counting Bits| Medium |https://leetcode.com/problems/counting-bits/|
 |Course Schedule| Medium |https://leetcode.com/problems/course-schedule/|
+|K Closest Points to origin| Medium |https://leetcode.com/problems/k-closest-points-to-origin/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
