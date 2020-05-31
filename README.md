@@ -70,6 +70,7 @@ Solutions for leetcode/lintcode problems
 |Counting Bits| Medium |https://leetcode.com/problems/counting-bits/|
 |Course Schedule| Medium |https://leetcode.com/problems/course-schedule/|
 |K Closest Points to origin| Medium |https://leetcode.com/problems/k-closest-points-to-origin/|
+|Edit Distance| Hard |https://leetcode.com/problems/edit-distance/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
