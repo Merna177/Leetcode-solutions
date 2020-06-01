@@ -71,6 +71,8 @@ Solutions for leetcode/lintcode problems
 |Course Schedule| Medium |https://leetcode.com/problems/course-schedule/|
 |K Closest Points to origin| Medium |https://leetcode.com/problems/k-closest-points-to-origin/|
 |Edit Distance| Hard |https://leetcode.com/problems/edit-distance/|
+|Invert Binary Tree| Easy |https://leetcode.com/problems/invert-binary-tree/
+|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
