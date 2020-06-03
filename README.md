@@ -73,6 +73,7 @@ Solutions for leetcode/lintcode problems
 |Edit Distance| Hard |https://leetcode.com/problems/edit-distance/|
 |Invert Binary Tree| Easy |https://leetcode.com/problems/invert-binary-tree/|
 |Delete Node in a Linked List| Easy |https://leetcode.com/problems/delete-node-in-a-linked-list/|
+|Two City Scheduling| Easy |https://leetcode.com/problems/two-city-scheduling/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
