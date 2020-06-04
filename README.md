@@ -74,6 +74,7 @@ Solutions for leetcode/lintcode problems
 |Invert Binary Tree| Easy |https://leetcode.com/problems/invert-binary-tree/|
 |Delete Node in a Linked List| Easy |https://leetcode.com/problems/delete-node-in-a-linked-list/|
 |Two City Scheduling| Easy |https://leetcode.com/problems/two-city-scheduling/|
+|Reverse String| Easy |https://leetcode.com/problems/reverse-string/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
