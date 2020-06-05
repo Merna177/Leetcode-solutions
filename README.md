@@ -75,6 +75,7 @@ Solutions for leetcode/lintcode problems
 |Delete Node in a Linked List| Easy |https://leetcode.com/problems/delete-node-in-a-linked-list/|
 |Two City Scheduling| Easy |https://leetcode.com/problems/two-city-scheduling/|
 |Reverse String| Easy |https://leetcode.com/problems/reverse-string/|
+|Random Pick With Weight| Medium |https://leetcode.com/problems/random-pick-with-weight/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
