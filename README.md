@@ -76,6 +76,7 @@ Solutions for leetcode/lintcode problems
 |Two City Scheduling| Easy |https://leetcode.com/problems/two-city-scheduling/|
 |Reverse String| Easy |https://leetcode.com/problems/reverse-string/|
 |Random Pick With Weight| Medium |https://leetcode.com/problems/random-pick-with-weight/|
+|Queue Reconstruction by Height| Medium |https://leetcode.com/problems/queue-reconstruction-by-height/|
 ### Sql
 | Name | Difficulty | Link | 
 | :--: | :--: |:--: |
