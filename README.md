@@ -6,10 +6,19 @@ Solutions for leetcode/lintcode problems
 | :--: | :--: |:--: |
 | Remove Duplication from sorted list | Easy  |https://leetcode.com/problems/remove-duplicates-from-sorted-list/| 
 | Maximum subarray | Easy  |https://leetcode.com/problems/maximum-subarray/|
+| Power Of Two | Easy  |https://leetcode.com/problems/power-of-two/|
 | Merge Two sorted Lists | Easy  |https://leetcode.com/problems/merge-two-sorted-lists/|
 | Remove Linked List Elements | Easy  |https://leetcode.com/problems/remove-linked-list-elements/|
-| Binary Tree inorder Traverse  | Medium  |https://leetcode.com/problems/binary-tree-inorder-traversal/|
 | subtree of another tree  | Easy  |https://leetcode.com/problems/subtree-of-another-tree/|
+|  Single Number  | Easy  |https://leetcode.com/problems/single-number/|
+|  Happy Number  | Easy  |https://leetcode.com/problems/happy-number/|
+|  Move Zeroes  | Easy  |https://leetcode.com/problems/move-zeroes/|
+| Middle of the linkedlist  | Easy  |https://leetcode.com/problems/middle-of-the-linked-list/|
+|Backspace String Compare  | Easy  |https://leetcode.com/problems/backspace-string-compare/|
+|Min stack | Easy  |https://leetcode.com/problems/min-stack/|
+|Diameter of Binary Tree | Easy  |https://leetcode.com/problems/diameter-of-binary-tree/|
+|Last Stone Weight | Easy  |https://leetcode.com/problems/last-stone-weight/|
+| Binary Tree inorder Traverse  | Medium  |https://leetcode.com/problems/binary-tree-inorder-traversal/|
 | Search Suggestions System  | Medium  |https://leetcode.com/problems/search-suggestions-system/|
 |  Search a 2D Matrix II  | Medium  |https://leetcode.com/problems/search-a-2d-matrix-ii/|
 |  Spireal Matrix II  | Medium  |https://leetcode.com/problems/spiral-matrix-ii/|
@@ -18,16 +27,8 @@ Solutions for leetcode/lintcode problems
 |  Word Break  | Medium  |https://leetcode.com/problems/word-break/|
 |  Partition Labels  | Medium  |https://leetcode.com/problems/partition-labels/|
 |  Sort an Array  | Medium  |https://leetcode.com/problems/sort-an-array/|
-|  Single Number  | Easy  |https://leetcode.com/problems/single-number/|
-|  Happy Number  | Easy  |https://leetcode.com/problems/happy-number/|
-|  Move Zeroes  | Easy  |https://leetcode.com/problems/move-zeroes/|
 | best time to buy & sell stock II  | Easy  |https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/|
 | group Anagrams  | Medium  |https://leetcode.com/problems/group-anagrams/|
-| Middle of the linkedlist  | Easy  |https://leetcode.com/problems/middle-of-the-linked-list/|
-|Backspace String Compare  | Easy  |https://leetcode.com/problems/backspace-string-compare/|
-|Min stack | Easy  |https://leetcode.com/problems/min-stack/|
-|Diameter of Binary Tree | Easy  |https://leetcode.com/problems/diameter-of-binary-tree/|
-|Last Stone Weight | Easy  |https://leetcode.com/problems/last-stone-weight/|
 |Contiguous Array | Medium  |https://leetcode.com/problems/contiguous-array/|
 |Word Break II | Hard  |https://leetcode.com/problems/word-break-ii/|
 |Product of Array Except Self | Medium  |https://leetcode.com/problems/product-of-array-except-self/|
