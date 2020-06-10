@@ -7,6 +7,7 @@ Solutions for leetcode/lintcode problems
 | Remove Duplication from sorted list | Easy  |https://leetcode.com/problems/remove-duplicates-from-sorted-list/| 
 | Maximum subarray | Easy  |https://leetcode.com/problems/maximum-subarray/|
 | Is Subsequence | Easy  |https://leetcode.com/problems/is-subsequence/|
+| Search Insert Position | Easy  |https://leetcode.com/problems/search-insert-position/|
 | Power Of Two | Easy  |https://leetcode.com/problems/power-of-two/|
 | Merge Two sorted Lists | Easy  |https://leetcode.com/problems/merge-two-sorted-lists/|
 | Remove Linked List Elements | Easy  |https://leetcode.com/problems/remove-linked-list-elements/|
