@@ -20,6 +20,7 @@ Solutions for leetcode/lintcode problems
 |Min stack | Easy  |https://leetcode.com/problems/min-stack/|
 |Diameter of Binary Tree | Easy  |https://leetcode.com/problems/diameter-of-binary-tree/|
 |Last Stone Weight | Easy  |https://leetcode.com/problems/last-stone-weight/|
+|Insert Delete GetRandom in O(1) | Medium  |https://leetcode.com/problems/insert-delete-getrandom-o1/|
 | Binary Tree inorder Traverse  | Medium  |https://leetcode.com/problems/binary-tree-inorder-traversal/|
 | Search Suggestions System  | Medium  |https://leetcode.com/problems/search-suggestions-system/|
 |  Search a 2D Matrix II  | Medium  |https://leetcode.com/problems/search-a-2d-matrix-ii/|
