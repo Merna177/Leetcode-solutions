@@ -45,6 +45,7 @@ Solutions for leetcode/lintcode problems
 |LRU Cache| Medium  |https://leetcode.com/problems/lru-cache/|
 |Jump Game| Medium  |https://leetcode.com/problems/jump-game/|
 |Longest Common Subsequence | Medium |https://leetcode.com/problems/longest-common-subsequence/|
+|Cheapest Flights Within K Stops | Medium |https://leetcode.com/problems/cheapest-flights-within-k-stops/|
 |Maximal Square | Medium |https://leetcode.com/problems/maximal-square/|
 |Binary Tree Maximum Path Sum | Hard |https://leetcode.com/problems/binary-tree-maximum-path-sum/|
 |First Bad Version | Easy |https://leetcode.com/problems/first-bad-version/|
