@@ -6,6 +6,7 @@ Solutions for leetcode/lintcode problems
 | :--: | :--: |:--: |
 | Remove Duplication from sorted list | Easy  |https://leetcode.com/problems/remove-duplicates-from-sorted-list/| 
 | Maximum subarray | Easy  |https://leetcode.com/problems/maximum-subarray/|
+| Valid Palindrome | Easy  |https://leetcode.com/problems/valid-palindrome/|
 | Is Subsequence | Easy  |https://leetcode.com/problems/is-subsequence/|
 | Design Hashset| Easy  |https://leetcode.com/problems/design-hashset/|
 | Search In a Binary Search Tree | Easy  |https://leetcode.com/problems/search-in-a-binary-search-tree/|
